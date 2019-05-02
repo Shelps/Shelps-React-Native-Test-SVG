@@ -2,7 +2,7 @@
 Exemplo simples de um projeto react native utilizando react-native-svg.
 
 
-![Image of Yaktocat](https://drive.google.com/open?id=1O17r2EyZ_5f1_y3zlOYO-RFLRBhgC1PK)
+![Imagem da Tela](https://github.com/Shelps/Shelps-React-Native-Test-SVG/blob/master/%20github_image/img.png)
 
 ## Instruções
   > Execute o comando *yarn install* ou *npm install*, *react-native link react-native-svg* e *react-native run-android*.
